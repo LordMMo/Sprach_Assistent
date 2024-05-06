@@ -1,0 +1,4 @@
+pygame
+SpeechRecognition
+pywhatkit
+pyttsx3
